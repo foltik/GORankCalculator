@@ -1,0 +1,9 @@
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\bin\Release\GORankCalculator.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\bin\Release\GORankCalculator.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\bin\Release\GORankCalculator.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.Form1.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\GORankCalculator\GORankCalculator\obj\Release\GORankCalculator.pdb
